@@ -1,0 +1,5 @@
+Andy    20
+Billy    25
+Charlie    50
+David    75 
+Eric     100
