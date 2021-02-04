@@ -1,7 +1,7 @@
 # Space-Golf
 A golf course in space!
 
-Programmed in spring of 2018, this game was my friend and I's final project in our Introduction to Java class.
+Programmed in spring of 2018, this game was my friend and I's final project in our Introduction to Java class. For more information about my role, check out [this file](https://github.com/andy1503hsu/Space-Golf/blob/main/About%20the%20Project%20and%20My%20Role.md).
 
 To run the game, make sure to pull 6 files (Game.java, HighScores.txt, and the four pictures).
 
